@@ -1,7 +1,7 @@
 # simon-game
 <br>
 <p>
-  Here's the link to my Simon Game project:
+  Here's the link to my Simon Game project: https://prathamhanda.github.io/simon-game/
   
 
 ---
